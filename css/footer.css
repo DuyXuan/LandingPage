@@ -1,0 +1,33 @@
+footer .row{
+  padding: 60px;
+}
+
+footer .col {
+  width: 50%;
+ padding: 0 50px;
+
+}
+.footer-icon{
+  display: flex;
+  justify-content: flex-end;
+}
+.footer-list{
+  display: flex;
+  flex-wrap: wrap;
+  list-style-type: none;
+ 
+  padding: 0;
+  font-size: 0.9rem;
+}
+.footer-list li{
+  margin: 5px;
+}
+
+.footer-policy p{
+  font-size: 0.8rem; 
+}
+.footer-icon i {
+  color: #3182fc;
+  margin-right: 20px;
+}
+

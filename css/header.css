@@ -1,0 +1,32 @@
+
+header{
+    padding: 10px;
+}
+header .col{
+    width: 27%;
+    text-align: center;
+   
+}
+header .row{
+    flex-wrap: nowrap !important;
+    justify-content: space-between;
+}
+
+header .logo h3{
+    margin-top: 10px;
+    font-weight: 700 ;
+    font-size: 1.2rem;
+    letter-spacing: 1px;
+    
+}
+header button {
+    font-size: 1rem;
+    border: none;
+    background-color: #3182fc;
+    border-radius: 5px;
+    width: 75px;
+    height: 38px;
+    cursor: pointer;
+    color: white;
+   
+  }
